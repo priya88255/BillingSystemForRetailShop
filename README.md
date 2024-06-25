@@ -1,4 +1,4 @@
-# BillingSystemForRetailShop
+# Billing System For Retail Shop
 
 Welcome to the RetailShop Billing System repository! This console-based application is designed to streamline retail operations by providing efficient billing processes, versatile payment methods, and comprehensive customer and stock reports.
 
